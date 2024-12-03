@@ -4,7 +4,7 @@
 ## About The Project
 - This project implements a trained image recognition model, an image recognition model created from scratch, as well as a AI powered text generation model.
 ### Motivation
-- We were inspired by two datasets, one of [299 different flowers](https://www.kaggle.com/datasets/bogdancretu/flower299) and the [language of flowers](https://www.kaggle.com/datasets/jenlooper/language-of-flowers). Some light research, we found how much more meaningful flowers can be. There's a reason why flowers are a staple present in hospitals, events and holidays of appreciation. Flowers can relieve stress and anxiety, make a moment memorable, and most importantly, a vessel to express deep emotions.
+- We were inspired by two datasets, one of [299 different flowers](https://www.kaggle.com/datasets/bogdancretu/flower299) and the [language of flowers](https://www.kaggle.com/datasets/jenlooper/language-of-flowers) and [16 Flowers](https://www.kaggle.com/datasets/l3llff/flowers) Some light research, we found how much more meaningful flowers can be. There's a reason why flowers are a staple present in hospitals, events and holidays of appreciation. Flowers can relieve stress and anxiety, make a moment memorable, and most importantly, a vessel to express deep emotions.
 ### Key Features
 1. Image recognition model: We used a pre-trained flower recognition model to classify images of flowers.
 2. Large Language Model: We used a LLM to generate text for retrieving the cultureal and historical significance of the flower.

@@ -19,23 +19,44 @@
 **To get a local copy of the Flower Power up and running locally follow these simple example steps:**
 
 ### Setup
-1. Navigate to the directory where you want to clone/run/save the application:
+1. Clone this repository:
    ```sh
-   cd 
-   ```
-2. Clone this repository:
+   git clone https://github.com/ImrulNYC/CTP-final.git
+
+2. Navigate
    ```sh
-   
-   ```
-3. Install the dependencies listed in the requirements.txt file:
+   cd CTP-final/
+ next 
+  ```sh
+   cd Flower_power_web-main
+```
+or 
+
+```
+cd flower-rec1-main
+```
+or 
+```sh
+cd Flower-rec2-main
+```
+##Go Back cd ..  :
+```sh
+cd ..
+```
+
+3. Install the dependencies listed in the requirements.txt file: same for all 3 repo
    ```sh
    pip install -r requirements.txt
    ```
-4. Run Streamlit:
+4. Run Streamlit: Flower power & flower-rec1
    ```sh
    streamlit run app.py
-   '''
-
+   ```
+   Flower-rec2
+   ```sh
+   streamlit run app2.py
+   ```
+   
 ### Prerequisites
 **NOTE:** How to check if Python is installed and what is its version
 ```sh

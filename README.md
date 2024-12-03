@@ -1,4 +1,4 @@
-## MAIN PAGE: https://flowerpowerweb-y5xthaukjkfnapp8zymvysg.streamlit.app
+
 
 # 🌺[Flower Power](https://flowerpowerweb-y5xthaukjkfnapp8zymvysg.streamlit.app/) | The Feelings Behind the Petals
 ## About The Project
